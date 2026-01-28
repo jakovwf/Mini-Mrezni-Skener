@@ -1,6 +1,0 @@
-IP: 192.168.8.1
-PORT: 53/tcp   open     domain
-PORT: 80/tcp   open     http
-PORT: 443/tcp  open     https
-MAC Address: 82:42:05:03:10:9F (Unknown)
-Aggressive OS guesses: Linux 3.1 (95%), Linux 3.2 (95%), Linux 3.12 - 4.10 (95%), Linux 3.16 (95%), AXIS 210A or 211 Network Camera (Linux 2.6.17) (95%), OpenWrt (Linux 3.3) (94%), ASUS RT-N56U WAP (Linux 3.4) (94%), Linux 2.6.32 - 3.10 (93%), Dahua or Amcrest network video recorder (Linux) (93%), Western Digital My Cloud DL4100 NAS (Linux 3.10) (93%)
