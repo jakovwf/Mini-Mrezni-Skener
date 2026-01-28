@@ -1,0 +1,1 @@
+# Nmap 7.94SVN scan initiated Wed Jan 28 22:13:47 2026 as: nmap -A -oN 192.168.8.213.txt 192.168.8.213

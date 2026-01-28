@@ -1,0 +1,9 @@
+===== homerouter.cpe =====
+IP: homerouter.cpe
+
+===== 192.168.8.213 =====
+IP: 192.168.8.213
+
+===== DESKTOP-BP88UOS =====
+IP: DESKTOP-BP88UOS
+

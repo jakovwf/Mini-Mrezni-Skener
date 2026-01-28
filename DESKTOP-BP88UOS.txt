@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Wed Jan 28 22:13:48 2026 as: nmap -A -oN DESKTOP-BP88UOS.txt DESKTOP-BP88UOS
+Failed to resolve "DESKTOP-BP88UOS".
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Wed Jan 28 22:13:48 2026 -- 0 IP addresses (0 hosts up) scanned in 0.20 seconds

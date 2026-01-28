@@ -1,0 +1,3 @@
+homerouter.cpe
+192.168.8.213
+DESKTOP-BP88UOS

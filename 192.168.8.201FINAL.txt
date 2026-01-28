@@ -1,0 +1,5 @@
+IP: 192.168.8.201
+PORT: 49152/tcp open  unknown
+PORT: 62078/tcp open  iphone-sync
+MAC Address: 80:95:3A:75:7B:83 (Unknown)
+Aggressive OS guesses: Apple macOS 10.13 (High Sierra) - 10.15 (Catalina) or iOS 11.0 - 13.4 (Darwin 17.0.0 - 19.6.0) (97%), Apple macOS 11 (Big Sur) (Darwin 20.6.0) (97%), Apple TV 5 (96%), Apple Mac OS X 10.11 (El Capitan) or iOS 12.4 - 13.6 (Darwin 15.6.0 - 19.6.0) (93%), Apple macOS 10.15 (Catalina) (Darwin 19.6.0) (93%), Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0) (90%), FreeBSD 11.1-STABLE (90%), Apple macOS 12 (Monterey) (Darwin 21.6.0) (90%), Apple Mac

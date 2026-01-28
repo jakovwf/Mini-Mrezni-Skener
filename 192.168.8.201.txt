@@ -1,0 +1,17 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-28 21:17 CET
+Nmap scan report for Jakov (192.168.8.201)
+Host is up (0.066s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT      STATE SERVICE
+49152/tcp open  unknown
+62078/tcp open  iphone-sync
+MAC Address: 80:95:3A:75:7B:83 (Unknown)
+Device type: phone|general purpose|media device
+Running (JUST GUESSING): Apple iOS 11.X|12.X|13.X (97%), Apple macOS 10.13.X|10.14.X|10.15.X|11.X (97%), Apple Apple TV 5.X (96%), Apple OS X 10.11.X (93%)
+OS CPE: cpe:/o:apple:iphone_os:11 cpe:/o:apple:iphone_os:12 cpe:/o:apple:iphone_os:13 cpe:/o:apple:mac_os_x:10.13 cpe:/o:apple:mac_os_x:10.14 cpe:/o:apple:mac_os_x:10.15 cpe:/o:apple:apple_tv:5 cpe:/o:apple:mac_os_x:10.11
+Aggressive OS guesses: Apple macOS 10.13 (High Sierra) - 10.15 (Catalina) or iOS 11.0 - 13.4 (Darwin 17.0.0 - 19.6.0) (97%), Apple macOS 11 (Big Sur) (Darwin 20.6.0) (97%), Apple TV 5 (96%), Apple Mac OS X 10.11 (El Capitan) or iOS 12.4 - 13.6 (Darwin 15.6.0 - 19.6.0) (93%), Apple macOS 10.15 (Catalina) (Darwin 19.6.0) (93%), Apple OS X 10.11 (El Capitan) - 10.12 (Sierra) or iOS 10.1 - 10.2 (Darwin 15.4.0 - 16.6.0) (90%), FreeBSD 11.1-STABLE (90%), Apple macOS 12 (Monterey) (Darwin 21.6.0) (90%), Apple Mac OS X 10.6.5 (Snow Leopard) (Darwin 10.5.0) (90%), FreeBSD 11.0-STABLE (89%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 12.94 seconds

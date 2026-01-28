@@ -1,0 +1,1 @@
+# Nmap 7.94SVN scan initiated Wed Jan 28 22:13:04 2026 as: nmap -A -oN homerouter.cpe.txt homerouter.cpe

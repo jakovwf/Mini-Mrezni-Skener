@@ -1,0 +1,16 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-28 21:46 CET
+Nmap scan report for homerouter.cpe (192.168.8.1)
+Host is up (0.0056s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE    SERVICE
+53/tcp   open     domain
+80/tcp   open     http
+443/tcp  open     https
+3000/tcp filtered ppp
+MAC Address: 82:42:05:03:10:9F (Unknown)
+Aggressive OS guesses: Linux 3.1 (95%), Linux 3.2 (95%), Linux 3.12 - 4.10 (95%), Linux 3.16 (95%), AXIS 210A or 211 Network Camera (Linux 2.6.17) (95%), OpenWrt (Linux 3.3) (94%), ASUS RT-N56U WAP (Linux 3.4) (94%), Linux 2.6.32 - 3.10 (93%), Dahua or Amcrest network video recorder (Linux) (93%), Western Digital My Cloud DL4100 NAS (Linux 3.10) (93%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 13.81 seconds
